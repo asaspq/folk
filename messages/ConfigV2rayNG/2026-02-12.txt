@@ -20,3 +20,74 @@ Auto-tunneling (اتصال هوشمند بر اساس شبکه)
 https://play.google.com/store/apps/details?id=com.zaneschepke.wireguardautotunnel
 
 https://wgtunnel.com/download/
+
+==================================================
+[ID: 18096] [2026-02-12T10:57:15+00:00]
+==================================================
+اول برنامه openconnect یا anyconnect را از گوگل پلی دانلود کنید. 
+
+
+اولین مرحله یکی از سرورهایی که گذاشتم رو کپی کنید. 
+بعد یک اسم برای اکانت بنویسید. 
+بعد نام کاربری رو اضافه کنید. 
+بعد پسورد رو اضافه کنید. 
+بعد کانکت رو بزنید
+تمام. 
+
+نکته: اگر وصل نشد، سرور رو عوض کنید.
+
+==================================================
+[ID: 18095] [2026-02-12T10:56:20+00:00]
+==================================================
+🖥 Username : 
+VPN-1225281
+🗝 Password : 
+PUBHWTNS
+
+
+سرور های openconnect : 
+
+ca-tor2-smart.serverlocation.co:1600
+ca-mr3-smart.serverlocation.co:1600
+nl-am-smart.serverlocation.co:1600
+se-st-smart.serverlocation.co:1600
+ch-zr3-smart.serverlocation.co:1600
+at-vn.serverlocation.co:1600
+au-mel2-smart.serverlocation.co:1600
+au-sy1-smart.serverlocation.co:1600
+br-sp2-smart.serverlocation.co:1600
+dk-cp-smart.serverlocation.co:1600
+fr-pr1-smart.serverlocation.co:1600
+fr-pr.serverlocation.co:1600
+de-fra-smart.serverlocation.co:1600
+gr-at.serverlocation.co:1600
+hk-smart.serverlocation.co:1600
+in-bg2-smart.serverlocation.co:1600
+in-mb.serverlocation.co:1600
+ie-db.serverlocation.co:1600
+it-ml.serverlocation.co:1600
+jp-tk2-smart.serverlocation.co:1600
+nz-ac-smart.serverlocation.co:1600
+no-os.serverlocation.co:1600
+sg3-smart.serverlocation.co:1600
+za-jh2-smart.serverlocation.co:1600
+es-md.serverlocation.co:1600
+es-md2-smart.serverlocation.co:1600
+ch-zr.serverlocation.co:1600
+tr-is2-smart.serverlocation.co:1600
+uae-db2-smart.serverlocation.co:1600
+uk-lon.serverlocation.co:1600
+uk-lon2-smart.serverlocation.co:1600
+us-las-smart.serverlocation.co:1600
+us-la2-smart.serverlocation.co:1600
+us-la2.serverlocation.co:1600
+us-ch.serverlocation.co:1600
+us-mi1-smart.serverlocation.co:1600
+us-ny2-smart.serverlocation.co:1600
+us-ny1.serverlocation.co:1600
+us-or.serverlocation.co:1600
+
+==================================================
+[ID: 18087] [2026-02-12T05:26:10+00:00]
+==================================================
+با گزینه اولی کانفیگ هارو که سیو کردید وارد برنامه کنید و بعد متصل بشید.
