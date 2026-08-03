@@ -1189,3 +1189,12 @@
 ==================================================
 #nV
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1943740] [2026-08-03T04:55:46+00:00]
+==================================================
+#v2ray
+```vless://ae53e390-22c9-4609-a51d-df2be269dbfe@185.146.173.58:80?path=/telegram-@polproxy#[🇸🇪]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #sᴡᴇᴅᴇɴ(sᴇ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
