@@ -31,3 +31,8 @@
 
 **لینک دانلود Surfshark:**
 [Android](https://play.google.com/store/apps/details?id=com.surfshark.vpnclient.android) | [IOS](https://apps.apple.com/us/app/surfshark-vpn-fast-vpn-app/id1391782046) | [Windows](https://apps.microsoft.com/detail/xp9kn848dqpdk9?hl=en-GB&gl=FI)
+
+==================================================
+[ID: 18103] [2026-02-13T06:19:02+00:00]
+==================================================
+Log in >>>manual connection >>>open vpn/ udp
