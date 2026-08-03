@@ -21,3 +21,31 @@ https://darknessshade.github.io/Amnezia-VPN-Config
 [iOS](https://apps.apple.com/us/app/amneziavpn/id1600529900) / [Android](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_android9+_x86.apk) / [Windows](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_x64.exe) / [Mac](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_macos.pkg) / [Linux](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_linux_x64.tar)
 
 **کانفیگ هاش روی برنامه های AmneziaWG و WGTunnel و WireSock هم وصل میشه**
+
+==================================================
+[ID: 18659] [2026-06-06T04:46:39+00:00]
+==================================================
+اگر این سرورها برای شما متصل نمی‌شوند، روی کانفیگ موردنظر ضربه بزنید تا وارد تنظیمات آن شوید.
+🔹 گزینه View Configuration را باز کنید. 🔹 روی آیکون ✏️ (مداد) بزنید. 🔹 به پایین صفحه اسکرول کنید. 🔹 مقدار Endpoint را پاک کرده و یکی از  آدرس های زیر را جایگزین کنید:
+
+188.114.97.6:7281
+
+8.6.112.224:8886
+
+8.6.112.235:1070
+
+8.6.112.228:1843
+
+8.6.112.19:908
+
+8.6.112.184:7281
+
+8.6.112.51:2506
+
+188.114.97.6:859
+
+8.6.112.8:1014
+
+8.6.112.253:854
+
+8.6.112.221:500
