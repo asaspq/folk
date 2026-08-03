@@ -1,0 +1,18 @@
+
+==================================================
+[ID: 201] [2026-06-20T23:00:16+00:00]
+==================================================
+vless://612edb60-206d-4d76-ade3-aa112e1e9f55@87.120.106.185:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#shotor_AR
+vless://612edb60-206d-4d76-ade3-aa112e1e9f55@87.120.106.185:34634?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#shotor_AR
+
+
++اگه خیلی پخش شد قطعش میکنم میزارم تو npv تا 500 نفر اوکیه اتصال همزمان هندل میکنه
+
+==================================================
+[ID: 201] [2026-06-20T23:00:16+00:00]
+==================================================
+vless://612edb60-206d-4d76-ade3-aa112e1e9f55@87.120.106.185:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#shotor_AR
+vless://612edb60-206d-4d76-ade3-aa112e1e9f55@87.120.106.185:34634?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#shotor_AR
+
+
++اگه خیلی پخش شد قطعش میکنم میزارم تو npv تا 500 نفر اوکیه اتصال همزمان هندل میکنه
