@@ -565,3 +565,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@hg1.levikogjgfdd.ir:40028?#
 vless://f3a21b24-5963-495a-a82f-1f62cb459335@62.238.53.197:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#
 vless://312eed52-b74a-41d7-a399-62efdc8f0122@millionaire.levikogjgfdd.ir:8080?path=%2Fv-ws&security=none&encryption=none&host=nl-cdn.doctor-alan-cloud.ir&type=ws#
+ss://YjdkYWI2ZGEtNWRiYS00ZTc4LWEwOTEtMzFlNzQ3OGQyODM0Og==@www.visa.com.sg:8443#
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@cf.levikogjgfdd.ir:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#
+ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.19.48.128:443#
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInYycmF5LndlZnVja2dmdy5nYSIsICJwb3J0IjogIjIwOTYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNhODkyOTVmLTU4YmUtNGU0Yi1iNGY2LTdkOGJhZjE4OGVkMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSDhWc3d0VUovIiwgImhvc3QiOiAidjJyYXkud2VmdWNrZ2Z3LmdhIiwgInRscyI6ICJ0bHMiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
+vless://8c38a4be-2133-4066-96ab-201217946bbc@104.21.4.6:443?security=tls&sni=tr-full.privateip.net&type=ws&host=tr-full.privateip.net&path=%2FVLESS&fp=random&alpn=h2,http/1.1#
+vless://c4b80f6b-0931-4ae4-96fe-6dc844c5c466@64.188.79.222:4443?security=reality&encryption=none&pbk=yIxxpfF8FygAHQvVXCiI5O1o3DrAPlW70JlTrFAv3D8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5af0b7d9#
+vless://aacdba79-7af3-4584-aa79-22526f369894@iGr.webnix.ir:2020?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#
+vless://14957d5b-523a-44ad-928d-166eaa5fc90d@217.11.164.92:37194?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#
