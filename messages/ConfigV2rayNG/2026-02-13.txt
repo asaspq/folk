@@ -1,0 +1,33 @@
+
+==================================================
+[ID: 18102] [2026-02-13T05:36:41+00:00]
+==================================================
+✅ **اکانت جدید  Surfshark با اتصال دستی
+اعتبار یک ماه - برای همه‌ی اپراتور ها**
+
+● **نام کاربری👇**
+`j66wTwa8dqE7tQCbv3Zzgbgd`
+● **پسورد**👇
+`E9HdNw3tXbeFfj9m79ZEWYyZ`
+
+🔹**پروتکل : OpenVPN-UDP**
+اگر این پروتکل جواب نداد OpenVPN-TCP را تست کنید.
+
+🔸**آدرس آیپی ها جهت اتصال:**
+🇬🇧 **United Kingdom**:
+`188.240.57.123`
+`138.199.29.205`
+
+🇹🇷 **Turkey**:
+`45.136.155.193`
+
+🇺🇸 **United State**:
+`169.150.203.239`
+`212.102.61.138`
+
+🇫🇷 **France**:
+`138.199.16.130`
+`45.134.79.153`
+
+**لینک دانلود Surfshark:**
+[Android](https://play.google.com/store/apps/details?id=com.surfshark.vpnclient.android) | [IOS](https://apps.apple.com/us/app/surfshark-vpn-fast-vpn-app/id1391782046) | [Windows](https://apps.microsoft.com/detail/xp9kn848dqpdk9?hl=en-GB&gl=FI)
