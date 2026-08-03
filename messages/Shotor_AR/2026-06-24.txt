@@ -1,0 +1,18 @@
+
+==================================================
+[ID: 209] [2026-06-24T21:03:11+00:00]
+==================================================
+vless://2650422b-8ce8-46d5-bb57-8b1283279aae@87.120.106.80:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp
+
+vless://2650422b-8ce8-46d5-bb57-8b1283279aae@87.120.106.80:34634?encryption=none&host=play.google.com&path=%2F&security=none&type=ws
+
+تست کنید
+
+==================================================
+[ID: 209] [2026-06-24T21:03:11+00:00]
+==================================================
+vless://2650422b-8ce8-46d5-bb57-8b1283279aae@87.120.106.80:50420?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp
+
+vless://2650422b-8ce8-46d5-bb57-8b1283279aae@87.120.106.80:34634?encryption=none&host=play.google.com&path=%2F&security=none&type=ws
+
+تست کنید
