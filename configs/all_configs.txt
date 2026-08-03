@@ -757,3 +757,4 @@ vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.52:8082?encryption=none&
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@186.246.9.44:50056?encryption=none&fp=&pbk=yJBocmjwNjASYZkLpBTm6WObZpRBfHXNTjYbz3jHZn8&security=reality&sid=25b79ebabb508860&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@rubr5.cheburnetnastalgia1998.com:50056?encryption=none&fp=&pbk=yJBocmjwNjASYZkLpBTm6WObZpRBfHXNTjYbz3jHZn8&security=reality&sid=25b79ebabb508860&sni=rubr5.cheburnetnastalgia1998.com&type=grpc#
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=none&encryption=none&type=grpc#
