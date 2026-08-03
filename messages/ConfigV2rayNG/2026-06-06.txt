@@ -1,0 +1,23 @@
+
+==================================================
+[ID: 18657] [2026-06-06T00:26:59+00:00]
+==================================================
+**آموزش ساخت کانفیگ Amnezia VPN**
+
+
+
+1- وارد لینک زیر بشید (اگه آیپیا لود نشد وی پی انتونو خاموش کنید وارد شید)
+
+https://darknessshade.github.io/Amnezia-VPN-Config
+
+2- بعد از اینکه آیپیارو لود کرد یکیشو انتخاب کنید و تیک "فعال سازی پارامترهای امنزیا 1.5" رو حتما بزنید
+
+3- روی ساخت کانفیگ بزنید تا کانفیگ ساخته شه.
+
+ حالا کانفیگ قابل استفاده اس
+میتونید هم به صورت فایلی دانلودش کنید هم کپیش کنید و توی برنامه Amnezia VPN بزنید و وصل شید
+
+🔸Amnezia VPN Download:
+[iOS](https://apps.apple.com/us/app/amneziavpn/id1600529900) / [Android](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_android9+_x86.apk) / [Windows](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_x64.exe) / [Mac](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_macos.pkg) / [Linux](https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_linux_x64.tar)
+
+**کانفیگ هاش روی برنامه های AmneziaWG و WGTunnel و WireSock هم وصل میشه**
