@@ -1,0 +1,51 @@
+
+==================================================
+[ID: 18312] [2026-02-24T12:57:12+00:00]
+==================================================
+🖥 Username : 
+VPN-1225281
+🗝 Password : 
+JUIQPMYY
+
+
+سرور های openconnect : 
+
+ca-tor2-smart.serverlocation.co:1600
+ca-mr3-smart.serverlocation.co:1600
+nl-am-smart.serverlocation.co:1600
+se-st-smart.serverlocation.co:1600
+ch-zr3-smart.serverlocation.co:1600
+at-vn.serverlocation.co:1600
+au-mel2-smart.serverlocation.co:1600
+au-sy1-smart.serverlocation.co:1600
+br-sp2-smart.serverlocation.co:1600
+dk-cp-smart.serverlocation.co:1600
+fr-pr1-smart.serverlocation.co:1600
+fr-pr.serverlocation.co:1600
+de-fra-smart.serverlocation.co:1600
+gr-at.serverlocation.co:1600
+hk-smart.serverlocation.co:1600
+in-bg2-smart.serverlocation.co:1600
+in-mb.serverlocation.co:1600
+ie-db.serverlocation.co:1600
+it-ml.serverlocation.co:1600
+jp-tk2-smart.serverlocation.co:1600
+nz-ac-smart.serverlocation.co:1600
+no-os.serverlocation.co:1600
+sg3-smart.serverlocation.co:1600
+za-jh2-smart.serverlocation.co:1600
+es-md.serverlocation.co:1600
+es-md2-smart.serverlocation.co:1600
+ch-zr.serverlocation.co:1600
+tr-is2-smart.serverlocation.co:1600
+uae-db2-smart.serverlocation.co:1600
+uk-lon.serverlocation.co:1600
+uk-lon2-smart.serverlocation.co:1600
+us-las-smart.serverlocation.co:1600
+us-la2-smart.serverlocation.co:1600
+us-la2.serverlocation.co:1600
+us-ch.serverlocation.co:1600
+us-mi1-smart.serverlocation.co:1600
+us-ny2-smart.serverlocation.co:1600
+us-ny1.serverlocation.co:1600
+us-or.serverlocation.co:1600
