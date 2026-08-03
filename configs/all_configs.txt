@@ -690,3 +690,5 @@ vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?pa
 vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?encryption=none&type=ws&security=tls&path=%2Ffdip&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&insecure=0&allowInsecure=0#
 vless://09c9b2e5-875a-460b-bf03-a237d3be0293@79.174.92.138:8443?security=reality&encryption=none&pbk=XlPZy538jkCt-VNtnLXcwjtrTSaVrM2AzIWq_rh7pRU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=51d04ca6fb10#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.177.26.50:22222?encryption=none&security=none&type=tcp#
+vless://36362beb-7f9c-4794-8c46-bc065b8320b9@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#
+vless://e9ec2c07-1365-4d7e-964c-b51c937a0511@91.224.74.47:80?path=%2F&security=&encryption=none&host=play.google.com&type=ws#
