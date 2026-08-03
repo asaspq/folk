@@ -573,3 +573,5 @@ vless://8c38a4be-2133-4066-96ab-201217946bbc@104.21.4.6:443?security=tls&sni=tr-
 vless://c4b80f6b-0931-4ae4-96fe-6dc844c5c466@64.188.79.222:4443?security=reality&encryption=none&pbk=yIxxpfF8FygAHQvVXCiI5O1o3DrAPlW70JlTrFAv3D8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5af0b7d9#
 vless://aacdba79-7af3-4584-aa79-22526f369894@iGr.webnix.ir:2020?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#
 vless://14957d5b-523a-44ad-928d-166eaa5fc90d@217.11.164.92:37194?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#
+vless://70dd5928-f872-4c93-b680-e3c85ea3d471@184.tradeip.store:443?security=reality&encryption=none&pbk=aJZZHw8BiVQMsFDsMrujF5ah2uH2FOfXd_YhjmbiyCA&headerType=none&fp=chrome&spx=%2F145565b99bb2b2f&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bd19a4b34b3fd617#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080?#
