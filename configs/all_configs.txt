@@ -671,3 +671,8 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@212.38.189.174:7307#
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#
+vless://ed81e147-b441-48d3-8b84-ea9db782b0b2@mmlplp.jorzel.ir:1963?mode=stream-one&path=%2Fpath&security=reality&encryption=none&pbk=qB3VrHnAPaet0yZwVC3hPH4YL7IkrZUcP_oW14e0GQA&host=hostname&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=26a77d1265b5def1#
+vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#
+vless://6f436a44-f703-93da-7e45-615824a39d3b@admin.kermanshahi.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#
