@@ -1,0 +1,22 @@
+
+==================================================
+[ID: 18085] [2026-02-12T05:21:58+00:00]
+==================================================
+WG Tunnel 
+
+
+
+یک کلاینت متن‌باز و قدرتمند برای اندروید، ساخته‌شده روی پروتکل امن WireGuard و نسخه ضد فیلترینگ اون یعنی AmneziaWG 🚀
+
+✨ ویژگی‌ها
+پشتیبانی همزمان از WireGuard و AmneziaWG
+
+Split Tunneling (انتخاب اپ‌هایی که از VPN عبور می‌کنن)
+Always-On + Lockdown Mode (جلوگیری از نشت اطلاعات)
+Auto-tunneling (اتصال هوشمند بر اساس شبکه)
+پشتیبانی از DNS امن (DNS over HTTPS)
+متن‌باز و رایگان 🔓
+📥 دانلود مستقیم:
+https://play.google.com/store/apps/details?id=com.zaneschepke.wireguardautotunnel
+
+https://wgtunnel.com/download/
