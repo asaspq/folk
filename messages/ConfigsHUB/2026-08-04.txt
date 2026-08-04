@@ -5669,3 +5669,21 @@
 
 ᴄᴏᴜɴᴛʀʏ: #ғɪɴʟᴀɴᴅ(ғɪ)
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949070] [2026-08-04T06:42:59+00:00]
+==================================================
+#v2ray
+```vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.146.225:22223?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949071] [2026-08-04T06:42:59+00:00]
+==================================================
+#v2ray
+```vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.146.225:22222?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
