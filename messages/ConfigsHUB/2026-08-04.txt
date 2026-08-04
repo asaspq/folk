@@ -7667,3 +7667,21 @@
 ==================================================
 #nV
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949307] [2026-08-04T07:28:26+00:00]
+==================================================
+#v2ray
+```vless://400f428f-6ee8-400a-8172-e5ce79949762@91.193.58.137:2096?path=%2F&security=tls&encryption=none&insecure=0&host=mrhamid.hamidrezaamjady.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mrhamid.hamidrezaamjady.workers.dev#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴋɪɴɢᴅᴏᴍ(ɢʙ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949308] [2026-08-04T07:28:30+00:00]
+==================================================
+#v2ray
+```vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
