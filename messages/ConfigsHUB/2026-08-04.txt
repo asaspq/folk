@@ -8963,3 +8963,75 @@
 ==================================================
 #nV
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949464] [2026-08-04T07:58:27+00:00]
+==================================================
+#v2ray
+```vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.141.83:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949465] [2026-08-04T07:58:32+00:00]
+==================================================
+#v2ray
+```trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949466] [2026-08-04T07:58:36+00:00]
+==================================================
+#v2ray
+```vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=feywi.goldleaflab-psr.sbs&fp=chrome&type=ws&allowInsecure=0&sni=feywi.goldleaflab-psr.sbs#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949467] [2026-08-04T07:58:40+00:00]
+==================================================
+#v2ray
+```vless://20f44487-3735-4b4a-8954-aba28837fddc@104.21.78.194:2087?path=%2Ftrialbox&security=tls&encryption=none&insecure=0&host=ist.chalghooz.com&fp=chrome&type=ws&allowInsecure=0&sni=ist.chalghooz.com#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949468] [2026-08-04T07:58:45+00:00]
+==================================================
+#v2ray
+```vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.35.32:8443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949469] [2026-08-04T07:58:49+00:00]
+==================================================
+#v2ray
+```vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.38.78:2087?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949470] [2026-08-04T07:58:54+00:00]
+==================================================
+#v2ray
+```vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1949471] [2026-08-04T07:58:58+00:00]
+==================================================
+#v2ray
+```vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
