@@ -14726,3 +14726,39 @@
 ==================================================
 #nV
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1950156] [2026-08-04T10:49:33+00:00]
+==================================================
+#v2ray
+```vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.219.144.168:443?security=tls&sni=ve.ylks.xyz&type=ws&path=/?proxyip#[🇸🇬]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #sɪɴɢᴀᴘᴏʀᴇ(sɢ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1950157] [2026-08-04T10:49:33+00:00]
+==================================================
+#v2ray
+```vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ymail.com&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&sid=6a58#[🇵🇱]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴘᴏʟᴀɴᴅ(ᴘʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1950158] [2026-08-04T10:49:38+00:00]
+==================================================
+#v2ray
+```vless://7463257d-2eb5-4223-9463-66c36586610e@104.17.148.22:8080?security=none&type=ws&host=maznet---_-_---maznet.iMamhussaIn.sbs.&path=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1950159] [2026-08-04T10:49:38+00:00]
+==================================================
+#v2ray
+```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?type=tcp#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
