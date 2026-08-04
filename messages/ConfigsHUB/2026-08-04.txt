@@ -13956,3 +13956,12 @@
 
 ᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅᴀʀᴀʙᴇᴍɪʀᴀᴛᴇs(ᴀᴇ)
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1950062] [2026-08-04T10:26:38+00:00]
+==================================================
+#v2ray
+```vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?security=reality&encryption=none&pbk=JHhSUg9NZC6jeVsw4XH23MzZIQgjD5IgnR3E9PNPJn4&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us.musicwave.net&sid=825d392c67e4#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
