@@ -312,3 +312,5 @@ trojan://Mitivpn@165.215.250.160:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=h
 vless://2cdddac1-9a7c-4726-a176-74586c0db6eb@snapp.ir:80?path=%2Fvnet102MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=d4.gsm10shop.com&type=ws#snapp.ir%3A80
 vless://45503d34-af34-4511-970a-1d60f0279f14@45.130.125.120:443?path=%2F%3Fed%3D80&security=tls&encryption=none&host=s1.nimhub.ir.&fp=chrome&type=ws&sni=s1.nimhub.ir.#45.130.125.120%3A443
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.186.26:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#185.215.186.26%3A443
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0%3D@it5.taskflowhub.org:2083#it5.taskflowhub.org%3A2083
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&encryption=none&headerType=none&type=tcp#193.233.23.121%3A40611
