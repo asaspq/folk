@@ -1993,3 +1993,30 @@
 
 ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1955144] [2026-08-05T11:02:51+00:00]
+==================================================
+#v2ray
+```vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@193.227.99.54:8880?encryption=none&security=none&type=httpupgrade&host=bgphajik.lorqino.ir&path=mmd#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1955145] [2026-08-05T11:02:51+00:00]
+==================================================
+#v2ray
+```vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.85.22:22222?encryption=none&security=none&type=tcp#[🇫🇷]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ғʀᴀɴᴄᴇ(ғʀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1955147] [2026-08-05T11:02:51+00:00]
+==================================================
+#v2ray
+```ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
