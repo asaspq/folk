@@ -312,3 +312,4 @@ vless://telegram-id-PcV2ray@www.speedtest.net:8080?path=/telegram-PcV2ry?ed=2048
 vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&security=reality&sid=d6ff9019a77e354a&sni=www.cloudflare.com&type=tcp#144.31.213.225%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?type=tcp#193.29.139.225%3A8080
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php%23TELEGRAM-TGRVPN&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigV2RayNG
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&alpn=h2&fp=firefox&allowinsecure=0&type=tcp&headerType=none#93.115.25.139%3A443
