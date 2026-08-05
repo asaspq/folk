@@ -300,3 +300,6 @@ vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@185.68.184.237:443?encryption=none&
 trojan://ND91608427@15.237.49.244:443?fp=chrome&sni=star-kiwi.rooster465.autos#15.237.49.244%3A443
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#108.162.195.7%3A2053
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.198:8880?encryption=none&security=none&type=grpc#151.115.167.198%3A8880
+vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@130.49.219.126:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=at16.fastlanehosting.ru&type=tcp#130.49.219.126%3A8443
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#170.114.45.6%3A443
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?encryption=none&security=none&type=grpc#151.115.166.53%3A8880
