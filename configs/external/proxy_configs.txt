@@ -1596,3 +1596,6 @@ vless://f7a1003e-bf22-4bb3-a6fa-983372afa717@188.72.103.3:443?alpn=h2,http/1.1&e
 vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@172.67.215.201:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=11.ez-70ef02.workers.dev&path=/eyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0=&security=tls&sni=11.ez-70ef02.workers.dev&type=ws#🇨🇦
 vless://f9a32cc6-7dab-4d36-a839-ea276777dc30@188.166.17.69:2087?encryption=none&fp=chrome&host=dsvh58bp.v6d30b.workers.dev&path=/&security=tls&sni=dsvh58bp.v6d30b.workers.dev&type=ws#🇺🇸
 vless://ff7f88e0-52c5-4025-bf73-19daf2c7a10f@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra=#188.72.103.3%3A443
+vless://30b57d42-63cf-4bd7-8f6e-0dddca1598ea@51.250.40.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8&security=reality&sid=22730c666bd10642&sni=api-maps.yandex.ru&type=raw#🇺🇸
+vless://77930005-ea92-44dc-9d94-e9192427f519@185.126.93.17:443?encryption=none&extra=null&fp=firefox&host=wx-deu-037.cdnphotos.org&mode=auto&path=/api/v1/&security=tls&sni=wx-deu-037.cdnphotos.org&type=xhttp#🇷🇺
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.149.146:62145?security=none&type=tcp&encryption=none#🇺🇸
