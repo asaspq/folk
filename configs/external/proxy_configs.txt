@@ -1602,3 +1602,4 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.149.146:62145?security=none
 vless://9530dd99-fc18-4955-babe-194cd14c0a87@185.40.153.217:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=/&type=raw#🇺🇸
 vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#🇷🇺
 vless://ee9dbc18-6409-49c3-affa-53916f0a7267@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#🇷🇺
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=/&encryption=none#🇺🇸
