@@ -1603,3 +1603,4 @@ vless://9530dd99-fc18-4955-babe-194cd14c0a87@185.40.153.217:443?encryption=none&
 vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#🇷🇺
 vless://ee9dbc18-6409-49c3-affa-53916f0a7267@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#🇷🇺
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=/&encryption=none#🇺🇸
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&type=raw&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=79a1e14b&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&encryption=none#🇺🇸
