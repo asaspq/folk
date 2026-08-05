@@ -220,3 +220,4 @@ vless://f48127d3-a637-4f84-af02-f4ad4de69a9c@192.71.82.2:8443?encryption=none&ty
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#one-for-all.levikogjgfdd.ir%3A2053
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?path=/telegram-PcV2ry?ed=2048&security=none&encryption=none&host=1.V.www.speedtest.net.www.debian.org.mehpow.iR.&type=ws#www.speedtest.net%3A8080
 vless://DIGIV2rAy@www.Speedtest.Net:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#www.Speedtest.Net%3A2095
+vless://5c1242e9-acad-4b60-b4af-235a68072fec@91.98.98.22:8441?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#91.98.98.22%3A8441
