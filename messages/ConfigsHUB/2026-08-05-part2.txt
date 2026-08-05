@@ -354,3 +354,12 @@
 
 ᴄᴏᴜɴᴛʀʏ: #ɪʀᴀɴ(ɪʀ)
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1954909] [2026-08-05T09:58:07+00:00]
+==================================================
+#v2ray
+```vless://5c1242e9-acad-4b60-b4af-235a68072fec@91.98.98.22:8441?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#[🇩🇪]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
