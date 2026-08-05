@@ -238,3 +238,6 @@ vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?path=%
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#89.208.113.16%3A443
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#200.165.226.216%3A1293
 vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@201.34.135.13:1293?security=&encryption=none&headerType=&type=tcp#201.34.135.13%3A1293
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=dcbgd.minipixelport-qad.sbs&fp=chrome&type=ws&allowInsecure=0&sni=dcbgd.minipixelport-qad.sbs#162.159.38.119%3A443
+vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@178.236.255.234:654?security=&encryption=none&headerType=&type=tcp#178.236.255.234%3A654
+vless://XpnTeam-4@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#140.248.186.45%3A443
