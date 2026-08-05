@@ -1516,3 +1516,12 @@
 ==================================================
 #nV
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 1953513] [2026-08-05T03:58:06+00:00]
+==================================================
+#v2ray
+```vless://0dfe34f7-b0a9-7c3e-565b-58dd673d266b@69.46.46.249:443?path=%2Fws%2F0dfe34f7-b0a9-7c3e-565b-58dd673d266b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-5c0b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-5c0b.up.railway.app#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
