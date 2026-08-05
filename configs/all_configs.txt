@@ -296,3 +296,4 @@ trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#93.152.223.98%3A443
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#159.89.87.21%3A28190
 vless://99a22df0-4ceb-4a86-aae9-db1a69b0adb8@www.parsvds.ir:8080?path=SHHPROXY?ed=8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net.&type=ws#www.parsvds.ir%3A8080
+trojan://humanity@104.16.174.117:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#104.16.174.117%3A443
