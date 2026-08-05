@@ -230,3 +230,11 @@ vless://14be84e2-8b22-42c0-a1ba-3535fc8e9257@179.255.148.66:47588?security=reali
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?mode=gun&security=reality&encryption=none&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#88.218.44.4%3A8443
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?encryption=none&security=tls&sni=ad-004.vector9nmb3.info&insecure=0&allowInsecure=0&type=ws&host=ad-004.vector9nmb3.info&path=%2F#one-for-all.levikogjgfdd.ir%3A8443
 vless://9a279b36-604d-441a-b285-f669e43f6b58@tstbot.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#tstbot.paydar.site%3A80
+vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#millionaire.levikogjgfdd.ir%3A443
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#one-for-all.levikogjgfdd.ir%3A443
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.16.253.69:443?path=%2Fsg-melbi&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&type=ws&sni=support.zoom.us.yxls.eu.cc#104.16.253.69%3A443
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?path=%2Fsg-melbi&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#172.64.146.86%3A443
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?path=%2F&security=tls&encryption=none&type=ws#ad-010.vector9nmb3.info%3A8443
+vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#89.208.113.16%3A443
+vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#200.165.226.216%3A1293
+vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@201.34.135.13:1293?security=&encryption=none&headerType=&type=tcp#201.34.135.13%3A1293
