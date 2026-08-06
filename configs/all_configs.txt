@@ -593,3 +593,5 @@ vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@104.26.15.16:8443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.249.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#162.159.249.115%3A443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.233.176:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#172.67.233.176%3A443
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40Ny4yNDgiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAib2lpY3R3Lnl5ZHNpaS5jb20iLCAicGF0aCI6ICIvP2VkPTIwNDgmVGVsZWdyYW3wn4eo8J+HsyBAV2FuZ0NhaTIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViOiAi8J+HqPCfh6YxMzUxMzcgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIn0=
+trojan://humanity@104.18.152.140:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#104.18.152.140%3A443
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#104.19.229.21%3A443
