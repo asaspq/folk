@@ -1151,3 +1151,9 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.224.119:80?security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.4:443?security=tls&sni=94391e80.uvPN-OrG.PAGes.Dev&type=ws&host=94391E80.uVpn-Org.paGes.Dev&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#172.66.45.4%3A443
 vless://a8676dbb-7b11-409c-9e3e-15d313f89764@172.67.146.172:80?security=none&type=ws&host=7.v.v.V-_-_-V2ray-_-_-V.v.v.c.www.speedtest.net.ov.Zula.ir.cloudflare.com.pinocchio1.ir.#172.67.146.172%3A80
 vless://bd2914ed-69b1-4533-a7f0-929527541c35@172.67.66.177:80?security=none&type=ws&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com#172.67.66.177%3A80
+vless://14337163-3c81-4aa8-b048-bed99a24ec81@172.239.26.211:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#172.239.26.211%3A53147
+vless://14337163-3c81-4aa8-b048-bed99a24ec81@65.109.181.160:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#65.109.181.160%3A32855
+vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@154.222.9.228:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&flow=xtls-rprx-vision#154.222.9.228%3A443
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424#45.12.75.242%3A26424
+vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&fp=chrome&sni=bz16.wba-pn.ru#bz16.wba-pn.ru%3A2053
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.159.92.161:443?security=reality&encryption=none&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=97ac193c0962477c#85.159.92.161%3A443
