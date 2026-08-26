@@ -1498,3 +1498,12 @@
 
 ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2014638] [2026-08-26T16:53:37+00:00]
+==================================================
+#v2ray
+```vless://5e1c10ac-2524-42fe-8ace-699128095eff@upload.arshia-nova.ir:8087?encryption=none&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&security=reality&sid=01&sni=account.amd.com&spx=%2F80c0acba169c410&type=tcp#[🇩🇪]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
