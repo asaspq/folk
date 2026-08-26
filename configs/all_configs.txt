@@ -1259,3 +1259,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.214.184:22222?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.3.165:22222?encryption=none&security=none&type=tcp#15.237.3.165%3A22222
 vless://vgg@188.114.97.6:8080?encryption=none&security=none&type=ws&host=autumn-snow-735a.175-9d9.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#188.114.97.6%3A8080
 vless://5e1c10ac-2524-42fe-8ace-699128095eff@upload.arshia-nova.ir:8087?encryption=none&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&security=reality&sid=01&sni=account.amd.com&spx=%2F80c0acba169c410&type=tcp#upload.arshia-nova.ir%3A8087
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVVk5TWhBYVVJY2J3S0pTOHZQQ0NSQ19GMTNJQnkzdg==@138.124.123.127:1080#138.124.123.127%3A1080
+vless://5e1c10ac-2524-42fe-8ace-699128095eff@shop.jarorobo.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=7730d24eb50a0124&sni=stg-mena-images.shop.samsung.com&spx=%2F795bb62d40bacac&type=tcp#shop.jarorobo.ir%3A443
+vless://b2dbc58c-3a92-448f-aa95-6c8fdfffb282@109.169.85.138:443?security=reality&encryption=none&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=1dc6d8a2045a7c9d#109.169.85.138%3A443
