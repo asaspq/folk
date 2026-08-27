@@ -292,3 +292,39 @@
 
 ᴄᴏᴜɴᴛʀʏ: #ᴛʀᴋɪʏᴇ(ᴛʀ)
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016048] [2026-08-27T00:46:36+00:00]
+==================================================
+#v2ray
+```vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.49:80?type=ws&host=us3.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016049] [2026-08-27T00:46:39+00:00]
+==================================================
+#v2ray
+```vless://6017b67c-5a4b-4299-84c6-909462508790@thirdnethderr.pravio.ir:4040?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#[🏁]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴛʜᴇɴᴇᴛʜᴇʀʟᴀɴᴅs(ɴʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016050] [2026-08-27T00:46:44+00:00]
+==================================================
+#v2ray
+```vless://6017b67c-5a4b-4299-84c6-909462508790@czeckhellllooo.hchdhsbs12gd.ir:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#[🇨🇿]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴄᴢᴇᴄʜɪᴀ(ᴄᴢ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016051] [2026-08-27T00:46:48+00:00]
+==================================================
+#v2ray
+```vless://6017b67c-5a4b-4299-84c6-909462508790@Italymynewconf.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#[🇮🇹]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ɪᴛᴀʟʏ(ɪᴛ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
