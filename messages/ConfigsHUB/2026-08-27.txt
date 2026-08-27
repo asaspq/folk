@@ -169,3 +169,27 @@
 ==================================================
 #OVPN
 [ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016005] [2026-08-27T00:30:50+00:00]
+==================================================
+#OVPN
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016029] [2026-08-27T00:32:39+00:00]
+==================================================
+#v2ray
+```vless://6017b67c-5a4b-4299-84c6-909462508790@Polesimoen.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#[🇵🇱]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ᴘᴏʟᴀɴᴅ(ᴘʟ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
+
+==================================================
+[ID: 2016030] [2026-08-27T00:32:43+00:00]
+==================================================
+#v2ray
+```vless://6017b67c-5a4b-4299-84c6-909462508790@Greatalxander.iranfreemarz.com:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#[🇩🇪]t.me/ConfigsHub```
+
+ᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)
+[ᴄᴏɴғɪɢsʜᴜʙ](https://t.me/ConfigsHub) ₪ [ᴀʀɪʏᴀ](https://t.me/kingariya) ₪ [ʙᴏᴛ](https://t.me/ConfigsHUB_BOT) ₪ [ʜᴇʟᴘ](https://t.me/ConfigsHubPlus/319648)
